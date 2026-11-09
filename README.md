@@ -1,5 +1,7 @@
 # Borehole-Promo-Email
 
+![Screenshot](https://github.com/tinashetogara68-tech/Borehole-Promo-Email/blob/06cfaf9e8d8790b7257c87ac58a70f58def312c8/Screenshot%20(5).png)
+
 # Solar Installation Marketing Email
 
 ## Overview
